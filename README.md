@@ -81,11 +81,7 @@
 
 ---
 
-## Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umery007&bg_color=102A46&color=79B8FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="95%" />
-</p>
 
 ## Projetos em destaque
 
