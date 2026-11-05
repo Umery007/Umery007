@@ -23,10 +23,10 @@
 ## Sobre mim
 
 - Desenvolvedor Full Stack.
-- Trabalho com desenvolvimento Web e Mobile.
-- Conhecimentos em desenvolvimento Front-end e Back-end.
+- Desenvolvimento Web e Mobile.
+- Conhecimentos em Front-end e Back-end.
 - Interesse em arquitetura de sistemas e banco de dados.
-- Experiência com criação e prototipação de interfaces UX/UI.
+- Criação e prototipação de interfaces UX/UI.
 - Sempre buscando aprender novas tecnologias e desenvolver projetos.
 
 ---
@@ -68,8 +68,16 @@
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umery007&show_icons=true&theme=transparent&bg_color=102A46&title_color=79B8FF&text_color=EAF4FF&icon_color=3B82F6&border_color=1B4965&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umery007&layout=compact&theme=transparent&bg_color=102A46&title_color=79B8FF&text_color=EAF4FF&border_color=1B4965" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umery007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=102A46&title_color=79B8FF&text_color=FFFFFF&icon_color=3B82F6" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umery007&layout=compact&hide_border=true&bg_color=102A46&title_color=79B8FF&text_color=FFFFFF" />
+</p>
+
+---
+
+## Atividade no GitHub
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umery007&bg_color=102A46&color=79B8FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
