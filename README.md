@@ -1,16 +1,103 @@
-## Hi there 👋
+# Thales Andrade
 
-<!--
-**Umery007/Umery007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A46,50:1B4965,100:3B82F6&height=180&section=header&text=THALES%20ANDRADE&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Desenvolvedor Full Stack | UX/UI Designer</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, criação de soluções digitais e desenvolvimento de interfaces modernas e funcionais.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Umery007">
+    <img src="https://img.shields.io/badge/GitHub-Umery007-102A46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-1B4965?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-UX%2FUI-3B82F6?style=for-the-badge" />
+</p>
+
+---
+
+## Sobre mim
+
+- Desenvolvedor Full Stack.
+- Trabalho com desenvolvimento Web e Mobile.
+- Conhecimentos em desenvolvimento Front-end e Back-end.
+- Interesse em arquitetura de sistemas e banco de dados.
+- Experiência com criação e prototipação de interfaces UX/UI.
+- Sempre buscando aprender novas tecnologias e desenvolver projetos.
+
+---
+
+## Tecnologias e ferramentas
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
+
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Design e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umery007&show_icons=true&theme=transparent&bg_color=102A46&title_color=79B8FF&text_color=EAF4FF&icon_color=3B82F6&border_color=1B4965&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umery007&layout=compact&theme=transparent&bg_color=102A46&title_color=79B8FF&text_color=EAF4FF&border_color=1B4965" />
+</p>
+
+---
+
+## Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/Umery007?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-102A46?style=for-the-badge&logo=github&logoColor=79B8FF" />
+  </a>
+</p>
+
+Confira meus repositórios para conhecer meus projetos e experimentos.
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/Umery007">
+    <img src="https://img.shields.io/badge/GitHub-102A46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Transformando ideias em soluções através da tecnologia.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A46,50:1B4965,100:3B82F6&height=100&section=footer" width="100%" />
