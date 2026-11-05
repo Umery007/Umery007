@@ -1,33 +1,116 @@
-## GitHub Overview
+# Thales Andrade
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A46,50:1B4965,100:3B82F6&height=180&section=header&text=THALES%20ANDRADE&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Explore-102A46?style=for-the-badge&logo=github&logoColor=79B8FF" />
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack-1B4965?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-UX%2FUI-3B82F6?style=for-the-badge&logo=figma&logoColor=white" />
+  <strong>Desenvolvedor Full Stack | UX/UI Designer</strong>
+</p>
+
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, criação de soluções digitais e desenvolvimento de interfaces modernas e funcionais.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Umery007">
+    <img src="https://img.shields.io/badge/GitHub-Umery007-102A46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-1B4965?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-UX%2FUI-3B82F6?style=for-the-badge" />
+</p>
+
+---
+
+## Sobre mim
+
+- Desenvolvedor Full Stack.
+- Desenvolvimento Web e Mobile.
+- Conhecimentos em Front-end e Back-end.
+- Interesse em arquitetura de sistemas e banco de dados.
+- Criação e prototipação de interfaces UX/UI.
+- Sempre buscando aprender novas tecnologias e desenvolver projetos.
+
+---
+
+## Tecnologias e ferramentas
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
+
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Design e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Umery007?style=for-the-badge&logo=github&label=Followers&color=1B4965" />
+  <img src="https://img.shields.io/github/stars/Umery007?style=for-the-badge&logo=github&label=Stars&color=3B82F6" />
+  <img src="https://img.shields.io/github/repo-size/Umery007/Umery007-Walpaper-IA2?style=for-the-badge&logo=github&label=Repository%20Size&color=102A46" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Umery007?tab=repositories">
-    <img src="https://img.shields.io/badge/MEUS%20PROJETOS-102A46?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Repositories-102A46?style=for-the-badge&logo=github&logoColor=79B8FF" />
   </a>
 </p>
 
 ---
 
-## Tecnologias que utilizo
+## Atividade no GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umery007&bg_color=102A46&color=79B8FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
 
+## Projetos em destaque
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <a href="https://github.com/Umery007?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-102A46?style=for-the-badge&logo=github&logoColor=79B8FF" />
+  </a>
 </p>
+
+Confira meus repositórios para conhecer meus projetos e experimentos.
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/Umery007">
+    <img src="https://img.shields.io/badge/GitHub-102A46?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Transformando ideias em soluções através da tecnologia.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A46,50:1B4965,100:3B82F6&height=100&section=footer" width="100%" />
